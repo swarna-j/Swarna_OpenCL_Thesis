@@ -1,4 +1,4 @@
-// File:       VectorAddition.c
+// File:       vector_add.c
 // Abstract:   A simple "Vector Addition" compute example showing 
 //             the sum of two vectors (Z = X + Y; X,Y,Z are vectors of fixed size)              
 // Version:    <1.0>
